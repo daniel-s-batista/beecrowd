@@ -1,0 +1,10 @@
+segundos = int(input())
+minutos = 0
+horas = 0
+while segundos >= 60:
+    minutos += 1
+    segundos -= 60
+while minutos >= 60:
+    horas += 1
+    minutos -= 60
+print(horas, minutos, segundos, sep = ":")
