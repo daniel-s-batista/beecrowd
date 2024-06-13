@@ -1,0 +1,5 @@
+qntd = int(input())
+vetor = list(map(int, input().split()))
+menor = min(vetor)
+pos = vetor.index(min(vetor))
+print("Menor valor:", str(menor) + "\nPosicao:", pos)
