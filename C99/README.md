@@ -31,6 +31,8 @@ Clique nos links para ver os enunciados de cada um
 + [1042 - Sort Simples](https://resources.beecrowd.com/repository/UOJ_1042.html)
 + [1046 - Tempo de Jogo](https://resources.beecrowd.com/repository/UOJ_1046.html)
 + [1047 - Tempo de Jogo com Minutos](https://resources.beecrowd.com/repository/UOJ_1047.html)
++ [1048 - Aumento de Salário](https://www.beecrowd.com.br/repository/UOJ_1048.html)
++ [1051 - Imposto de Renda](https://www.beecrowd.com.br/repository/UOJ_1051.html)
 + [1078 - Tabuada](https://resources.beecrowd.com/repository/UOJ_1078.html)
 + [1094 - Experiências](https://resources.beecrowd.com/repository/UOJ_1094.html)
 + [1113 - Crescente e Decrescente](https://resources.beecrowd.com/repository/UOJ_1113.html)
